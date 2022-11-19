@@ -1,0 +1,5 @@
+Different modules use different training codes.
+Origin_train representatives only use ordinary cutout methods to train picture data.
+Cutout_train representatives adopt innovative two-stage cutout training ideas to train picture data.
+The picture data used by the fuzzy_train representative is processed by the fuzzy module.
+Train.py also integrates the calculation of various key indicators.
